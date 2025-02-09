@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AbdurRazzak01/ForestFlo.git/static/css/main.37ee1431.css",
+    "main.js": "/AbdurRazzak01/ForestFlo.git/static/js/main.f4ce5de6.js",
+    "static/js/453.cb5efac1.chunk.js": "/AbdurRazzak01/ForestFlo.git/static/js/453.cb5efac1.chunk.js",
+    "index.html": "/AbdurRazzak01/ForestFlo.git/index.html",
+    "main.37ee1431.css.map": "/AbdurRazzak01/ForestFlo.git/static/css/main.37ee1431.css.map",
+    "main.f4ce5de6.js.map": "/AbdurRazzak01/ForestFlo.git/static/js/main.f4ce5de6.js.map",
+    "453.cb5efac1.chunk.js.map": "/AbdurRazzak01/ForestFlo.git/static/js/453.cb5efac1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37ee1431.css",
+    "static/js/main.f4ce5de6.js"
+  ]
+}
